@@ -42,7 +42,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/saurav-raj-2b0810232/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saurav%Raj%-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/saurav-raj-2b0810232/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saurav%20Raj-blue?style=flat-square&logo=linkedin"></a>
 
 </p>
 
